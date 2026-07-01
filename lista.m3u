@@ -20,13 +20,13 @@ http://lourivalyool@gmail.com.mp4
 # Canais | GLOBO
 ############################################################################ 
 
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo RJ HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD
+#EXTINF:-1 tvg-id="GloboRJ" tvg-name="Globo RJ HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD
 http://gerenciar.vivatele.com/viva_padrao/viva2384/1
 
-#EXTINF:-1 tvg-id="GloboSP.br" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD
+#EXTINF:-1 tvg-id="GloboSP" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD
 http://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8
 
-#EXTINF:-1 tvg-id="GloboMT.br" tvg-name="Globo MT HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MT HD
+#EXTINF:-1 tvg-id="GloboMT" tvg-name="Globo MT HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MT HD
 http://15.235.42.84:8088/rj-live/rj-live/600267.ts
 
 #EXTINF:-1 tvg-id="GloboMG.br" tvg-name="Globo MG HD" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MG HD
